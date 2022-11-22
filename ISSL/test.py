@@ -23,5 +23,5 @@ class TestCSVPrinter(unittest.TestCase):
             print("error!")
 
 
-test = TestCSVPrinter()
-test.test_read()
+#test = TestCSVPrinter()
+#test.test_read()
